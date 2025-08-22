@@ -1,0 +1,28 @@
+# Compiled class files
+*.class
+build/
+target/
+
+# Java specific
+*.jar
+*.war
+*.ear
+
+# IDE specific
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+/tmp/
